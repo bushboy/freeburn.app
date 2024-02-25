@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "105408763073",
+    "project_id": "freeburn-music",
+    "storage_bucket": "freeburn-music.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105408763073:android:6bbf09724199cd58097040",
+        "android_client_info": {
+          "package_name": "xno.delegant.freeburn_music"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105408763073-ts6toevmnvubq1a92s4v91osg2jua0r1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCD_JMtOJ9tb7mdFgVYStynfVxwBgE-Z2w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105408763073-ts6toevmnvubq1a92s4v91osg2jua0r1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
